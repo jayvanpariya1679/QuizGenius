@@ -1,10 +1,12 @@
-# QuizGenius
-
-🧠 QuizGenius is an engaging and feature-rich quiz application designed to test your knowledge, challenge your wits, and have fun while learning! With a sleek and intuitive user interface, making it the perfect platform for both casual trivia enthusiasts and serious quizzers.
-
+![Quiz](https://github.com/jayvanpariya1679/QuizGenius/assets/98397324/c73d3694-2e59-4c03-8cbc-233f09a5d198)# QuizGenius
 
 Key Features:
 🕒 Timed Challenges: Put your knowledge to the test with timed quizzes. Think fast, answer quickly, and see how you rank against the clock. 
 📱 Responsive Design: Enjoy QuizGenius on any device, whether it's your computer, tablet, or smartphone.
 
 🚀 Happy quizzing! 🧠
+
+![Login](https://github.com/jayvanpariya1679/QuizGenius/assets/98397324/414ab991-cc46-46d7-83cb-6814608b3dfb)
+![Rules](https://github.com/jayvanpariya1679/QuizGenius/assets/98397324/f21592e9-fd24-48b5-a3c1-6d8a565fb6fd)
+![Quiz](https://github.com/jayvanpariya1679/QuizGenius/assets/98397324/8ee81e1f-76df-4aa5-9dc8-59ee57951273)
+![Score](https://github.com/jayvanpariya1679/QuizGenius/assets/98397324/401d2247-d86a-4421-bec5-7a6fdc0ea3de)

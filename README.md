@@ -1,5 +1,3 @@
-![Quiz](https://github.com/jayvanpariya1679/QuizGenius/assets/98397324/c73d3694-2e59-4c03-8cbc-233f09a5d198)# QuizGenius
-
 Key Features:
 🕒 Timed Challenges: Put your knowledge to the test with timed quizzes. Think fast, answer quickly, and see how you rank against the clock. 
 📱 Responsive Design: Enjoy QuizGenius on any device, whether it's your computer, tablet, or smartphone.
